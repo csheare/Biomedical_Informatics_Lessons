@@ -1,1 +1,1 @@
-# BiomedicalInfromaticsLessons
+# Biomedical Infromatics Lessons
